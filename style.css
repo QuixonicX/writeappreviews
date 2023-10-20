@@ -3,7 +3,6 @@
     font-family: 'Helvetica Neue', sans-serif;
 
 }
-
 body {
     background: url("./img1.jpg") no-repeat center center fixed;
     background-size: cover;
@@ -88,14 +87,3 @@ p {
         padding:5px;
     }
   }
-
-
-  .decorative-banner {
-    position: absolute;
-    top: 0; /* Adjust this value to position in the top of the page */
-    right: 0; /* Adjust this value to position in the right of the page */
-    width: 100px; /* Set the desired width */
-    height: 50px; /* Set the desired height */
-    background-color: #FFA500; /* Set a background color */
-    /* Add additional styles for your decorative banner */
-}
